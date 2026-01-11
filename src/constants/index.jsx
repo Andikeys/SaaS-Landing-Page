@@ -114,7 +114,7 @@ export const features = [
       id: "0",
       title: "Core",
       priceMonthly: 10,
-      priceYearly: 12,
+      priceYearly: 18,
       caption: "Best for solo creators",
       features: [
         "200MB Cloud storage",
@@ -129,7 +129,7 @@ export const features = [
       id: "1",
       title: "Overdrive",
       priceMonthly: 79,
-      priceYearly: 49,
+      priceYearly: 39,
       caption: "Most popular plan",
       features: [
         "All Starter features",
@@ -144,7 +144,7 @@ export const features = [
       id: "2",
       title: "Team",
       priceMonthly: 45,
-      priceYearly: 29,
+      priceYearly: 25,
       caption: "Exclusively for teams",
       features: [
         "All Overdrive features",
